@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCVI" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCVI>
+    <SHDSVCI>
+     <SCVARIANT>Z_TEST_SM30_0141</SCVARIANT>
+     <PROGNAME>SAPL0ADR</PROGNAME>
+     <DYNPRO>0141</DYNPRO>
+     <CRUSER>GORER</CRUSER>
+     <CRDATE>2020-04-19</CRDATE>
+     <CHUSER>GORER</CHUSER>
+     <CHDATE>2020-04-19</CHDATE>
+     <VERSION>1</VERSION>
+    </SHDSVCI>
+    <SHDSVTXCI>
+     <SHDSVTXCI>
+      <LANGU>E</LANGU>
+      <SCVARIANT>Z_TEST_SM30_0141</SCVARIANT>
+     </SHDSVTXCI>
+    </SHDSVTXCI>
+    <SHDSVFVCI>
+     <SHDSVFVCI>
+      <SCVARIANT>Z_TEST_SM30_0141</SCVARIANT>
+      <FIELDNAME>V_T005_BAS-LANDX50</FIELDNAME>
+      <ACTIVE>X</ACTIVE>
+      <INPUT_OFF>X</INPUT_OFF>
+      <ITYPE>C</ITYPE>
+     </SHDSVFVCI>
+    </SHDSVFVCI>
+   </SCVI>
+  </asx:values>
+ </asx:abap>
+</abapGit>
