@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_SCVI" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <SCVI>
+    <SHDSVCI>
+     <SCVARIANT>Z_TEST_SM30_0140</SCVARIANT>
+     <PROGNAME>SAPL0ADR</PROGNAME>
+     <DYNPRO>0140</DYNPRO>
+     <VERSION>1</VERSION>
+    </SHDSVCI>
+    <SHDSVTXCI>
+     <SHDSVTXCI>
+      <LANGU>E</LANGU>
+      <SCVARIANT>Z_TEST_SM30_0140</SCVARIANT>
+     </SHDSVTXCI>
+    </SHDSVTXCI>
+    <SHDSVFVCI>
+     <SHDSVFVCI>
+      <SCVARIANT>Z_TEST_SM30_0140</SCVARIANT>
+      <FIELDNAME>VIM_POSITION_INFO</FIELDNAME>
+      <ITYPE>C</ITYPE>
+     </SHDSVFVCI>
+     <SHDSVFVCI>
+      <SCVARIANT>Z_TEST_SM30_0140</SCVARIANT>
+      <FIELDNAME>VIM_POSI_PUSH</FIELDNAME>
+      <ITYPE>C</ITYPE>
+     </SHDSVFVCI>
+    </SHDSVFVCI>
+   </SCVI>
+  </asx:values>
+ </asx:abap>
+</abapGit>
